@@ -1082,7 +1082,11 @@ a {
   top: 0;
 }
 .cid-u9RaafwXzj .mbr-section-title {
-  color: #0173b1;
+  color: #ffffff;
+}
+.cid-u9RaafwXzj .mbr-text,
+.cid-u9RaafwXzj .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-u9jPo4bsQg {
   padding-top: 6rem;
@@ -2566,7 +2570,7 @@ a {
 .cid-u9RJgIJLar {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/innovation-definition.jpg");
+  background-image: url("../../../assets/images/startups-in-saudi-arabia.jpg");
 }
 .cid-u9RJgIJLar .mbr-fallback-image.disabled {
   display: none;
@@ -2658,6 +2662,52 @@ a {
   color: #232323;
 }
 .cid-u9RM3uXmWr H3 {
+  color: #0173b1;
+}
+.cid-ua1PKgc72f {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #f2f5f8;
+}
+.cid-ua1PKgc72f .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ua1PKgc72f .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ua1PKgc72f .card-box {
+  z-index: 10;
+  position: relative;
+}
+@media (min-width: 1500px) {
+  .cid-ua1PKgc72f .container {
+    max-width: 1400px;
+  }
+}
+.cid-ua1PKgc72f .card {
+  margin: auto;
+}
+.cid-ua1PKgc72f .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #0173b1;
+  margin-bottom: 2rem;
+}
+.cid-ua1PKgc72f .card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-ua1PKgc72f .row {
+  justify-content: center;
+}
+.cid-ua1PKgc72f H3 {
   color: #0173b1;
 }
 .cid-u9RJgLamSz {
@@ -3099,9 +3149,9 @@ a {
   }
 }
 .cid-u9S0jL4cYm {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/innovation-definition.jpg");
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/who-we-are2.jpg");
 }
 .cid-u9S0jL4cYm .mbr-fallback-image.disabled {
   display: none;
@@ -3117,6 +3167,7 @@ a {
 }
 .cid-u9S0jL4cYm .mbr-section-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-u9S0BYarzX {
   padding-top: 60px;
